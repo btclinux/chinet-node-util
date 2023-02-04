@@ -28,7 +28,7 @@
 #include "currency_format_utils_blocks.h"
 #include "currency_format_utils_transactions.h"
 #include "core_runtime_config.h"
-#include "wallet/wallet_public_structs_defs.h"
+// #include "wallet/wallet_public_structs_defs.h"
 
 
 // ------ get_tx_type_definition -------------
